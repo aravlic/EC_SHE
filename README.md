@@ -22,6 +22,15 @@ Each directory includes:
 
 ---
 
+### Supplemental Material Data
+In directory `supplemental_material` data used to generate Figs. S2--S3 can be found. To get the Fig. S2, the file
+`results_No_stat_unc_0218.txt` contains only the EC contribution for $1^+$ and $1^-$ transitions, together with
+1$\sigma$ uncertainties (denoted as ` dEC(1+)(s)` and ` dEC(1-)(s)`).
+
+The data required to reproduce Fig. S3 is stored in files formatted as `results_Hs_RDIP.txt`, where `RDIP` stands for
+the type of transition that is explicitly excluded from the calculation of the rate. Note that files for Hs contain both
+EC and $\beta^+$ contribution, while files for Rf are $\beta^-$ only.
+
 ## File Format
 
 Each `.txt` file is a plain-text table with the following columns:

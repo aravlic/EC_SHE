@@ -31,8 +31,8 @@ Each `.txt` file is a plain-text table with the following columns:
 | `nucl`         | Nucleus identifier |
 | `dec`          | Decay type (`HL+` denotes EC and β⁺ decay) |
 | `Total(s)`     | Total weak-decay half-life (in seconds) |
-| `Bp(J^π)(s)` or `Bm(J^π)(s)` | Partial half-lives for β⁺ or β⁻ decay channels with specified multipolarity *J^π* (in seconds) |
-| `EC(J^π)(s)`   | Electron capture half-life for each multipolarity *J^π* (in seconds) |
+| `Bp($J^\pi$)(s)` or `Bm($J^\pi$)(s)` | Partial half-lives for β⁺ or β⁻ decay channels with specified multipolarity $J^\pi$ (in seconds) |
+| `EC($J^\pi$)(s)`   | Electron capture half-life for each multipolarity $J^\pi$ (in seconds) |
 
 All half-lives are reported in **seconds**.
 

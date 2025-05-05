@@ -43,4 +43,5 @@ All half-lives are reported in **seconds**.
 If you use this data, please cite:
 
 A. Ravlic and W. Nazarewicz, *Weak decays in superheavy nuclei*, to be published in **Phys. Rev. C Letters** (2025).
-ArXiv preprint arXiv:2409.04620 [nucl-th]
+[ArXiv preprint arXiv:2409.04620 [nucl-th]](https://arxiv.org/abs/2409.04620)
+

@@ -4,7 +4,7 @@ This repository contains data associated with:
 
 **A. Ravlic and W. Nazarewicz**  
 *Weak decays in superheavy nuclei*  
-_To be published in Physical Review C Letters_
+Physical Review C 111 (5), L051305 (2025)
 
 ---
 
